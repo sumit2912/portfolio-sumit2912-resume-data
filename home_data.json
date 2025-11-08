@@ -1,0 +1,205 @@
+{
+  "name": "Sumit Dalakiya",
+  "email": "sumitdalakiya@gmail.com",
+  "mobileNo": "+91 9033073049",
+  "whatsAppNo": "919033073049",
+  "linkedin": "https://www.linkedin.com/in/sumit-dalakiya-5a015ba0",
+  "projects": [
+    {
+      "title": "Cosmopolitan Club Chennai",
+      "company": "Myvalam",
+      "description": "Developed an app enabling club members to view and pay bills, book games (Pickleball, Badminton) and facilities (Rooms, Banquets). Showcases all club facilities with easy access. Integrated notifications for upcoming events and updates to enhance member engagement.",
+      "platforms": [
+        "Flutter"
+      ],
+      "playStoreLink": "https://play.google.com/store/apps/details?id=com.cosmopolitanclubchennai.app",
+      "appStoreLink": "https://apps.apple.com/in/app/cosmopolitan-club-chennai/id1485911121",
+      "features": [
+        "Bill viewing and payment",
+        "Game and facility booking",
+        "Event notifications",
+        "Club facilities showcase"
+      ],
+      "status": "Live"
+    },
+    {
+      "title": "Hypex Mart",
+      "company": "Myvalam",
+      "description": "Built an industrial e-commerce app where customers can browse and purchase equipment with ease. Features include adding items to cart, managing or creating delivery addresses, secure online payments, and real-time order tracking.",
+      "platforms": [
+        "Android"
+      ],
+      "playStoreLink": "https://play.google.com/store/apps/details?id=com.hypexmart.app",
+      "features": [
+        "Industrial equipment shopping",
+        "Cart management",
+        "Secure online payments",
+        "Real-time order tracking",
+        "Delivery address management"
+      ],
+      "status": "Live"
+    },
+    {
+      "title": "Kanzpayday",
+      "company": "Myvalam",
+      "description": "A financial assistance app designed to simplify employee aid applications with an intuitive and seamless experience.",
+      "platforms": [
+        "Flutter"
+      ],
+      "playStoreLink": "https://play.google.com/store/apps/details?id=com.kanzpayday.app",
+      "appStoreLink": "https://apps.apple.com/pl/app/kanzpaydaynow/id6714458049",
+      "features": [
+        "Document capture",
+        "Eligibility verification",
+        "Secure data handling",
+        "Employee aid applications"
+      ],
+      "status": "Live"
+    },
+    {
+      "title": "WhereGo",
+      "company": "Myvalam",
+      "description": "A multi-app ecosystem consisting of three applications: Customer App, Vendor App, and Rider App for comprehensive delivery services.",
+      "platforms": [
+        "Android"
+      ],
+      "features": [
+        "Multi-app ecosystem",
+        "Food/grocery ordering",
+        "Vendor management",
+        "Rider delivery system",
+        "Profile management",
+        "Logistics using bike or car"
+      ],
+      "status": "Live"
+    },
+    {
+      "title": "Zing-HRMS",
+      "company": "Myvalam",
+      "description": "A comprehensive employee management app enabling staff to log in/out, view attendance, and manage leave requests.",
+      "platforms": [
+        "Android",
+        "Flutter"
+      ],
+      "features": [
+        "Attendance tracking",
+        "Leave management",
+        "Salary slip download",
+        "Personal details update",
+        "Task management",
+        "Expense reimbursement system"
+      ],
+      "status": "Live"
+    },
+    {
+      "title": "Foodie",
+      "company": "Myvalam",
+      "description": "Allows users to explore nearby restaurants through map and list views, with detailed restaurant information and the option to view food blogger YouTube videos.",
+      "platforms": [
+        "Android",
+        "iOS",
+        "Flutter"
+      ],
+      "features": [
+        "Restaurant exploration",
+        "Map and list views",
+        "YouTube integration",
+        "Wish list management",
+        "Favourites saving"
+      ],
+      "status": "Live"
+    },
+    {
+      "title": "ShareRoomz",
+      "company": "Myvalam",
+      "description": "A property rental app where owners can list properties and seekers can browse, filter, or post requirements. It is a Myvalam's product.",
+      "platforms": [
+        "Flutter"
+      ],
+      "features": [
+        "Property listing",
+        "Advanced filtering",
+        "In-app chat",
+        "Requirement posting",
+        "Location-based search and various filters"
+      ],
+      "status": "Under Development"
+    },
+    {
+      "title": "Towers Club",
+      "company": "Myvalam",
+      "description": "Club services app with fancy UI, enabling members to book facilities, explore services, and stay updated on events.",
+      "platforms": [
+        "Flutter"
+      ],
+      "features": [
+        "Facility booking",
+        "Event updates",
+        "Modern UI",
+        "Club services"
+      ],
+      "status": "Under Development"
+    },
+    {
+      "title": "Doc-99 Chemist",
+      "company": "Magespider Infoweb Pvt. Ltd",
+      "description": "Online chemist shop and clinic platform with user, doctor, and pharmacist modules.",
+      "platforms": [
+        "Android"
+      ],
+      "features": [
+        "Multi-module platform",
+        "Google Maps integration",
+        "Payment integration",
+        "Bug fixes and feature development"
+      ],
+      "status": "Live"
+    },
+    {
+      "title": "Urja Learning App",
+      "company": "Magespider Infoweb Pvt. Ltd",
+      "description": "Gujarati learning app for 11th–12th science and NEET students; contributed to UI design, video player R&D, and Java-based improvements.",
+      "platforms": [
+        "Android"
+      ],
+      "features": [
+        "Educational content",
+        "Video player R&D",
+        "UI design",
+        "Code improvements"
+      ],
+      "status": "Live"
+    },
+    {
+      "title": "Sale Tracking",
+      "company": "Giggles Infotech",
+      "description": "Developed a real-time salesman monitoring feature within a CRM system to capture salesmen's location, call history, GPS status, and device information.",
+      "platforms": [
+        "Android"
+      ],
+      "features": [
+        "Real-time monitoring",
+        "Location tracking",
+        "New features",
+        "Call history tracking"
+      ],
+      "status": "Live"
+    },
+    {
+      "title": "Online Music Player (2017)",
+      "company": "Giggles Infotech",
+      "description": "Created a demo Android app for streaming songs online with a modern player UI, featuring list-based browsing, background playback with notification and lock-screen controls.",
+      "platforms": [
+        "Android"
+      ],
+      "features": [
+        "Online streaming",
+        "Background playback",
+        "Notification controls",
+        "Lock-screen controls",
+        "Modern UI"
+      ],
+      "status": "Demo"
+    }
+  ]
+}
