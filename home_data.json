@@ -22,7 +22,7 @@
         "Event notifications",
         "Club facilities showcase"
       ],
-      "status": "Live"
+      "status": "'Live,#00C853'"
     },
     {
       "title": "Hypex Mart",
@@ -39,7 +39,7 @@
         "Real-time order tracking",
         "Delivery address management"
       ],
-      "status": "Live"
+      "status": "'Live,#00C853'"
     },
     {
       "title": "Kanzpayday",
@@ -56,7 +56,7 @@
         "Secure data handling",
         "Employee aid applications"
       ],
-      "status": "Live"
+      "status": "'Live,#00C853'"
     },
     {
       "title": "WhereGo",
@@ -73,7 +73,7 @@
         "Profile management",
         "Logistics using bike or car"
       ],
-      "status": "Live"
+      "status": "Inactive,#9E9E9E"
     },
     {
       "title": "Zing-HRMS",
@@ -91,7 +91,7 @@
         "Task management",
         "Expense reimbursement system"
       ],
-      "status": "Live"
+      "status": "Ready,#546E7A"
     },
     {
       "title": "Foodie",
@@ -109,7 +109,7 @@
         "Wish list management",
         "Favourites saving"
       ],
-      "status": "Live"
+      "status": "Ready,#546E7A"
     },
     {
       "title": "ShareRoomz",
@@ -125,7 +125,7 @@
         "Requirement posting",
         "Location-based search and various filters"
       ],
-      "status": "Under Development"
+      "status": "Under Development,#FFC107"
     },
     {
       "title": "Towers Club",
@@ -140,7 +140,7 @@
         "Modern UI",
         "Club services"
       ],
-      "status": "Under Development"
+      "status": "Under Development,#FFC107"
     },
     {
       "title": "Doc-99 Chemist",
@@ -154,8 +154,7 @@
         "Google Maps integration",
         "Payment integration",
         "Bug fixes and feature development"
-      ],
-      "status": "Live"
+      ]
     },
     {
       "title": "Urja Learning App",
@@ -170,7 +169,7 @@
         "UI design",
         "Code improvements"
       ],
-      "status": "Live"
+      "status": "Inactive,#9E9E9E"
     },
     {
       "title": "Sale Tracking",
@@ -184,8 +183,7 @@
         "Location tracking",
         "New features",
         "Call history tracking"
-      ],
-      "status": "Live"
+      ]
     },
     {
       "title": "Online Music Player (2017)",
@@ -201,7 +199,7 @@
         "Lock-screen controls",
         "Modern UI"
       ],
-      "status": "Demo"
+      "status": "Demo,#2979FF"
     }
   ]
 }
