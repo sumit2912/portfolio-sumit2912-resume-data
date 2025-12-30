@@ -3,14 +3,14 @@
   "title": "Mobile Application Developer | Android | Flutter",
   "summary": "Senior Mobile Application Developer with an overall 6+ years of proficient experience including Native Android (Kotlin/Java - 5+ years) and Flutter (2+ years), complemented by core expertise in iOS (Swift). Specializes in building user-friendly, scalable, and responsive applications. Highly skilled in architectural patterns such as MVVM and Clean Architecture, with a strong focus on code maintainability and managing the full mobile development lifecycle — from initial planning to publishing on both Google Play and the App Store. Recognized for effectively solving complex technical challenges and driving measurable improvements in application performance and stability.",
   "email": "sumitdalakiya@gmail.com",
-  "mobileNo": "+91 9033073049",
+  "mobileNo": "+91 8200721527",
   "whatsAppNo": "919033073049",
   "linkedin": "https://www.linkedin.com/in/sumit-dalakiya-5a015ba0",
-  "hintQaTextField": "Ask about my roles, projects, skills and more...",
+  "hintQaTextField": "Ask about my roles, projects, skills and more in india...",
   "projects": [
     {
       "title": "Cosmopolitan Club Chennai",
-      "company": "Myvalam",
+      "company": "Bharat",
       "description": "Developed an app enabling club members to view and pay bills, book games (Pickleball, Badminton) and facilities (Rooms, Banquets). Showcases all club facilities with easy access. Integrated notifications for upcoming events and updates to enhance member engagement.",
       "platforms": [
         "Flutter"
