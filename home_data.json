@@ -3,7 +3,7 @@
   "title": "Mobile Application Developer | Android | Flutter",
   "summary": "Senior Mobile Application Developer with an overall 6+ years of proficient experience including Native Android (Kotlin/Java - 5+ years) and Flutter (2+ years), complemented by core expertise in iOS (Swift). Specializes in building user-friendly, scalable, and responsive applications. Highly skilled in architectural patterns such as MVVM and Clean Architecture, with a strong focus on code maintainability and managing the full mobile development lifecycle — from initial planning to publishing on both Google Play and the App Store. Recognized for effectively solving complex technical challenges and driving measurable improvements in application performance and stability.",
   "email": "sumitdalakiya@gmail.com",
-  "mobileNo": "+91 8200721527",
+  "mobileNo": "+91 90333073049",
   "whatsAppNo": "919033073049",
   "linkedin": "https://www.linkedin.com/in/sumit-dalakiya-5a015ba0",
   "hintQaTextField": "Ask about my roles, projects, skills and more in india...",
@@ -172,37 +172,6 @@
         "Code improvements"
       ],
       "status": "Inactive,#9E9E9E"
-    },
-    {
-      "title": "Sale Tracking",
-      "company": "Giggles Infotech",
-      "description": "Developed a real-time salesman monitoring feature within a CRM system to capture salesmen's location, call history, GPS status, and device information.",
-      "platforms": [
-        "Android"
-      ],
-      "features": [
-        "Real-time monitoring",
-        "Location tracking",
-        "New features",
-        "Call history tracking"
-      ],
-      "status": "Product,#2979FF"  
-    },
-    {
-      "title": "Online Music Player (2017)",
-      "company": "Giggles Infotech",
-      "description": "Created a demo Android app for streaming songs online with a modern player UI, featuring list-based browsing, background playback with notification and lock-screen controls.",
-      "platforms": [
-        "Android"
-      ],
-      "features": [
-        "Online streaming",
-        "Background playback",
-        "Notification controls",
-        "Lock-screen controls",
-        "Modern UI"
-      ],
-      "status": "Demo,#2979FF"
     }
   ]
 }
